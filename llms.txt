@@ -1,0 +1,20 @@
+# Miami Bankruptcy Mill: Warning Signs and What the Court Data Shows
+> Learn about miami bankruptcy mill: warning signs and what the court data shows | miamibankruptcymill.com in our free 2026 guide.
+
+## About
+miamibankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Miami Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://miamibankruptcymill.com/
+- Chapter 13 Bankruptcy Mills in Miami: Red Flags and What to Watch For: https://miamibankruptcymill.com/chapter-13-miami.html
+- Chapter 7 Bankruptcy in Miami: Costs, Timeline and What to Know: https://miamibankruptcymill.com/chapter-7-miami.html
+- How to Check Your Miami Bankruptcy Attorney's Track Record: https://miamibankruptcymill.com/how-to-check.html
+- 5 Warning Signs of a Bankruptcy Mill in Miami: https://miamibankruptcymill.com/warning-signs.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
